@@ -52,23 +52,12 @@
 
 Списки варіантів
 
-Список 1. Сутності предметної області
+1 Subject area - 6. Books
 
-•	Сервери: компанія, data center, rack, сервер
+2 Lists - 1. SL
 
-Список 2. Зв’язні списки
+3 Trees - 5. R-B, B+
 
-•	Двозв’язний циклічний список
+4 Hash-table - 1. Linear
 
-Список 3. Балансовані дерева пошуку (реалізувати обидві структури)
-
-•	Splay tree, B tree
-
-Список 4. Хеш-таблиці
-
-•	Linear probing
-
-Список 5. Алгоритми сортування (реалізувати всі 4 алгоритми)
-
-•	Selection Sort, Quicksort, Heap Sort, Radix Sort
-
+5 Sorting - 8. Insert, Quick, Merge, Count
